@@ -37,6 +37,4 @@ It covers core CRUD operations, authentication, and role-based dashboards.
 3. Update SQL Server connection string in App.config
 4. Run the project (F5)
 
-## Author
-**P. Ravi**  
-Software Developer | PHP (12+ yrs) | .NET & Python AI Learner
+
